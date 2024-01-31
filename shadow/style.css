@@ -1,0 +1,39 @@
+h{
+    font-size: 40px;
+    color:red;
+    margin-left: 40%;
+    
+}
+body{
+   margin-top: 10%;
+    background:linear-gradient(grey,black);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:7%;
+    
+}
+#login{
+    color: white;
+    margin-left: 45%;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+
+#register{
+    color: white;
+    margin-left: 45%;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+#login:hover{
+    color:red
+}
+#register:hover{
+    color:green
+}
